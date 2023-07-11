@@ -10,6 +10,8 @@ var classgGUITextbox =
     [ "enableBackground", "classgGUITextbox.html#ab30373418b4de7a24cfbc526b93bb4ca", null ],
     [ "enableVerticalMargin", "classgGUITextbox.html#adc51846dc1873585a4ed75342a99336d", null ],
     [ "getCursor", "classgGUITextbox.html#a2fec8dc4b43664ee6f22ab8d5e7ad4b6", null ],
+    [ "getCursorPosX", "classgGUITextbox.html#a2d1d87cfb5ed92307ae4abb22d279dfc", null ],
+    [ "getInitX", "classgGUITextbox.html#aad01da0f271652f166914794c0ca68ad", null ],
     [ "getLineCount", "classgGUITextbox.html#a63d11404b44c7133e1df949706841a1f", null ],
     [ "getText", "classgGUITextbox.html#a313df9db46518f9842c88241656404ad", null ],
     [ "getTextboxh", "classgGUITextbox.html#ad87e0fecb6fb23a782e27883e3cc1571", null ],
@@ -23,6 +25,7 @@ var classgGUITextbox =
     [ "mousePressed", "classgGUITextbox.html#a97a23ef97545e0b88b1ccf1340ab622b", null ],
     [ "mouseReleased", "classgGUITextbox.html#a4fbba7cc0c52a98db86eb371fe9e8f44", null ],
     [ "set", "classgGUITextbox.html#a41d3868ecb91fc566f6a9fdd8904239c", null ],
+    [ "setCursorPosX", "classgGUITextbox.html#afe98775467848269a13aa24c03f8aa15", null ],
     [ "setEditable", "classgGUITextbox.html#aa689bb1a1633dd1c03bf5a2cb0e8f652", null ],
     [ "setFirstX", "classgGUITextbox.html#af056405b640b2578281f4baae09484cf", null ],
     [ "setFirstY", "classgGUITextbox.html#ae165f54e3bc8eaeafa497393bfb4e233", null ],
@@ -32,5 +35,6 @@ var classgGUITextbox =
     [ "setPassword", "classgGUITextbox.html#a78c9ee71bf2fc0b6080ca03e060aad19", null ],
     [ "setSize", "classgGUITextbox.html#a1daefb94bc10cf5da30e5e6701cadd23", null ],
     [ "setText", "classgGUITextbox.html#a83aa097d46a86437cfd86b7e0aea2892", null ],
+    [ "setTextFont", "classgGUITextbox.html#ab0581a36f4dab26d7bc11fb02f3dc841", null ],
     [ "update", "classgGUITextbox.html#ac12b4194d9673b4b5811729cb402a379", null ]
 ];
