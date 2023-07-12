@@ -1,6 +1,9 @@
 var files_dup =
 [
     [ "gAES.h", "gAES_8h_source.html", null ],
+    [ "gAllocatableBase.h", "gAllocatableBase_8h_source.html", null ],
+    [ "gAndroidUtil.h", "gAndroidUtil_8h_source.html", null ],
+    [ "gAndroidWindow.h", "gAndroidWindow_8h_source.html", null ],
     [ "gAppManager.h", "gAppManager_8h_source.html", null ],
     [ "gAppObject.h", "gAppObject_8h_source.html", null ],
     [ "gArc.h", "gArc_8h_source.html", null ],
@@ -26,7 +29,9 @@ var files_dup =
     [ "gCross.h", "gCross_8h_source.html", null ],
     [ "gCylinder.h", "gCylinder_8h_source.html", null ],
     [ "gDatabase.h", "gDatabase_8h_source.html", null ],
+    [ "gDynamicGrain.h", "gDynamicGrain_8h_source.html", null ],
     [ "gEdgeDetection.h", "gEdgeDetection_8h_source.html", null ],
+    [ "gEvent.h", "gEvent_8h_source.html", null ],
     [ "gFbo.h", "gFbo_8h_source.html", null ],
     [ "gFile.h", "gFile_8h_source.html", null ],
     [ "gFireParticles.h", "gFireParticles_8h_source.html", null ],
@@ -34,6 +39,7 @@ var files_dup =
     [ "gFog.h", "gFog_8h_source.html", null ],
     [ "gFont.h", "gFont_8h_source.html", null ],
     [ "gGLFWWindow.h", "gGLFWWindow_8h_source.html", null ],
+    [ "gGrain.h", "gGrain_8h_source.html", null ],
     [ "gGrayscale.h", "gGrayscale_8h_source.html", null ],
     [ "gGUIActionManager.h", "gGUIActionManager_8h_source.html", null ],
     [ "gGUIBitmap.h", "gGUIBitmap_8h_source.html", null ],
@@ -116,5 +122,6 @@ var files_dup =
     [ "gTriangle.h", "gTriangle_8h_source.html", null ],
     [ "gUtils.h", "gUtils_8h_source.html", null ],
     [ "gVbo.h", "gVbo_8h_source.html", null ],
+    [ "gWindowEvents.h", "gWindowEvents_8h_source.html", null ],
     [ "tinyfiledialogs.h", "tinyfiledialogs_8h_source.html", null ]
 ];
