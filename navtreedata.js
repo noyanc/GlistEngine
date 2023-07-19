@@ -45,15 +45,15 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classgBaseGUIObject.html#ad906f7ad3dc14a9c27f5fe26c779051e",
-"classgCylinder.html",
-"classgGUICheckbox.html#a8711ce2b06dd5f899d7691b381652bb3",
-"classgGUIGraph.html#aed1c2d6c01a9df41e6798c38ca88e9b1",
-"classgGUIRadarChart.html",
-"classgGUITreelist.html#a3aa987fd0dcce40dfa833895a26a6b90",
-"classgMaterial.html#ad4743dc2b1e64fee21fa5f62a729ed05",
-"classgRect.html#a7b0faaef44bfaac7589553e828f2200d",
-"classgSpriteAnimation.html#ab03b5e581b78eae59e58f97011acb8e6",
-"gGUIDivider_8h_source.html"
+"classgColorChannelMixer.html#a322e32918b5aaaf1db61d75c67dd6077",
+"classgGUICandleStickChart.html#aa0fe5b1df74c871a7da30af5c9b746c7",
+"classgGUIGraph.html#a7e5daf8b2ca3624f4ec04896640a26d7",
+"classgGUIProgressBar.html#a3df3b3f959627ebe32bddbbd4d43fa68",
+"classgGUITimebox.html#aa6c42f136ad849259806cef973ef2428",
+"classgMaterial.html#a726e7c52f3400e288b06d7b3392775f8",
+"classgParticle.html#a94e52de83959e14f87bcc333e72de7dc",
+"classgShadowsMidtonesHighlights.html",
+"functions_b.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
