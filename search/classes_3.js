@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['gaes_421',['gAES',['../classgAES.html',1,'']]],
-  ['gandroidwindow_422',['gAndroidWindow',['../classgAndroidWindow.html',1,'']]],
+  ['gaes_422',['gAES',['../classgAES.html',1,'']]],
   ['ganimationtrigger_423',['gAnimationTrigger',['../classgAnimationTrigger.html',1,'']]],
   ['gappmanager_424',['gAppManager',['../classgAppManager.html',1,'']]],
   ['gappobject_425',['gAppObject',['../classgAppObject.html',1,'']]],

@@ -44,16 +44,16 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classgBaseGUIObject.html#ad906f7ad3dc14a9c27f5fe26c779051e",
-"classgColor.html#ac6bf016844ba31d70417e9e611005ff1",
-"classgGUICandleStickChart.html#a151e5d9bd349bd3b08de15a151840f5a",
-"classgGUIGraph.html#a2e66d7016075a36257344031922e9ed3",
-"classgGUIPieGraph.html#a0de646625c1cddce92b4081aa0130e8a",
-"classgGUITextbox.html#ac06c6c9ab5fe216de85f36dd11b68737",
-"classgMaterial.html#a3857824f663a9e2375a716ced1e6805c",
-"classgNode.html#aff1f76374f156e7cb1d0107ca4d949e9",
-"classgShadowMap.html#a436d18c4843d0ed3311882771c195231",
-"classgWhiteBalance.html#a4a4c798c7f480eca23aff77a79721857"
+"classgBaseParticles.html#a22900021cfeb675625c63b18cd084307",
+"classgColorCurves.html",
+"classgGUICheckbox.html#a011522897edba65ac0d40c56e6f9cd9e",
+"classgGUIGraph.html#a7296ef007d1d699ec587941d638524ad",
+"classgGUIPieGraph.html#afeec500078ae3aaea9ae1c83a9dce6ee",
+"classgGUITextbox.html#af621f2789dedabf5371bdcd3408d5d50",
+"classgMaterial.html#a489ee74c4ce5d561171e2002ae47bd03",
+"classgObject.html#a55667d5e42365ab3e637c5630193e713",
+"classgShadowMap.html#a636fbd547bf9f211e2d7345c4c50d34a",
+"classgWindowFocusEvent.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
