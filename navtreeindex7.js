@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"classgLogd.html#a1bf8275bb598ca5d29e9677b93733d85":[0,0,109,0],
 "classgLoge.html":[0,0,110],
 "classgLoge.html#aa009eb2690e276871860620b95d5fa14":[0,0,110,0],
 "classgLogi.html":[0,0,111],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "classgNode.html#a51b388446804971cc1aad157a87e8a2b":[0,0,123,27],
 "classgNode.html#a543bfe81d1d3d644b090c9b0db28ecc9":[0,0,123,29],
 "classgNode.html#a56adfd3650a4955e33e0a2ee7d94766f":[0,0,123,51],
-"classgNode.html#a5b2ef8de03ec7bc85983f64b5877c0e1":[0,0,123,0],
-"classgNode.html#a6ade01c6af2b73ec82498f6c17dfa2bc":[0,0,123,46]
+"classgNode.html#a5b2ef8de03ec7bc85983f64b5877c0e1":[0,0,123,0]
 };
