@@ -1,5 +1,7 @@
 var NAVTREEINDEX10 =
 {
+"classgSoftFocus.html#a8eb3f7a706bc499a7991c4c6b08a4bc4":[0,0,142,0],
+"classgSphere.html":[0,0,143],
 "classgSphere.html#a94dea51c71a9f41b3884d5e297ec0979":[0,0,143,1],
 "classgSphere.html#aeac8f32eeb095b7656089b5cbe9ff43e":[0,0,143,0],
 "classgSpriteAnimation.html":[0,0,144],
@@ -222,8 +224,8 @@ var NAVTREEINDEX10 =
 "functions_c.html":[0,3,0,2],
 "functions_d.html":[0,3,0,3],
 "functions_e.html":[0,3,0,4],
-"functions_func.html":[0,3,1,0],
 "functions_func.html":[0,3,1],
+"functions_func.html":[0,3,1,0],
 "functions_func_b.html":[0,3,1,1],
 "functions_func_c.html":[0,3,1,2],
 "functions_func_d.html":[0,3,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX10 =
 "functions_o.html":[0,3,0,10],
 "functions_p.html":[0,3,0,11],
 "functions_r.html":[0,3,0,12],
-"functions_s.html":[0,3,0,13],
-"functions_t.html":[0,3,0,14],
-"functions_u.html":[0,3,0,15]
+"functions_s.html":[0,3,0,13]
 };
