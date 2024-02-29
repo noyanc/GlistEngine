@@ -1,5 +1,7 @@
 var NAVTREEINDEX10 =
 {
+"classgSphere.html#a94dea51c71a9f41b3884d5e297ec0979":[0,0,143,1],
+"classgSphere.html#aeac8f32eeb095b7656089b5cbe9ff43e":[0,0,143,0],
 "classgSpriteAnimation.html":[0,0,144],
 "classgSpriteAnimation.html#a1a0900bed280e4c5bac499ce494ef620":[0,0,144,1],
 "classgSpriteAnimation.html#a1b8cf7371ac691da6112c6635427c15c":[0,0,144,4],
@@ -214,14 +216,14 @@ var NAVTREEINDEX10 =
 "classgWindowResizeEvent.html#a12037a9797b82a2efcd950a2e740f344":[0,0,162,2],
 "classgWindowResizeEvent.html#a303c8759dad7cdd6f914b71c1821c6d2":[0,0,162,0],
 "files.html":[1,0],
-"functions.html":[0,3,0,0],
 "functions.html":[0,3,0],
+"functions.html":[0,3,0,0],
 "functions_b.html":[0,3,0,1],
 "functions_c.html":[0,3,0,2],
 "functions_d.html":[0,3,0,3],
 "functions_e.html":[0,3,0,4],
-"functions_func.html":[0,3,1],
 "functions_func.html":[0,3,1,0],
+"functions_func.html":[0,3,1],
 "functions_func_b.html":[0,3,1,1],
 "functions_func_c.html":[0,3,1,2],
 "functions_func_d.html":[0,3,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX10 =
 "functions_r.html":[0,3,0,12],
 "functions_s.html":[0,3,0,13],
 "functions_t.html":[0,3,0,14],
-"functions_u.html":[0,3,0,15],
-"functions_vars.html":[0,3,2],
-"gAES_8h_source.html":[1,0,0]
+"functions_u.html":[0,3,0,15]
 };
