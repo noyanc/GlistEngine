@@ -64,23 +64,23 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classgBaseGUIObject.html#af97da35cbe06cc7f15a741775edb7917",
-"classgCircle.html",
-"classgGLRenderEngine.html#a586c03db02a0d2a32ddf924ea1e952e0",
-"classgGUIContextMenuItem.html#a087f35db73a08b58f8341f17a1d01474",
-"classgGUIGrid.html#a16373a5e32abc2935e84037fcdad21ec",
-"classgGUINotebook.html#a44ec97529d007da2132f8f08d78b4590",
-"classgGUISlider.html",
-"classgGrid.html",
-"classgMaterial.html#a557142dff2227044407b1c9f5889abbc",
-"classgNode.html#a41a65cf61c60c82b19ce140364f98a26",
-"classgRenderer.html#a6eedeade093370a1b77a59a74e98cdd2",
-"classgShadowsMidtonesHighlights.html#a7a32877c587f280d70d740c119fc3f5e",
-"classgUbo.html",
-"gConstants_8h.html#a8cbaec1227de07f900c36c7d71be2d16",
-"gKeyCode_8h.html#a75c40928c7c5039000d0f5b9733beaab",
-"gUtils_8h.html#a3032c90c64b493e8d519ce8f8dbb974d",
-"tinyfiledialogs_8c.html#afab9123f9e3163d969caecc912c0dd05"
+"classgBaseGUIObject.html#aed67c5e826a9bf7ff061d90c904f0369",
+"classgChromaticAberration.html#a27e20200767ff9c3f366f873a4dfa01b",
+"classgGLRenderEngine.html#a487192f06d9af3f23d0a79dce774a567",
+"classgGUIContainer.html#af56d8eab09a8c0ab6afd7336b6fbb31a",
+"classgGUIGrid.html#a0749ba1b4012959982b6dbde22d73122",
+"classgGUINotebook.html#a0060259961b270fbf4ee7184eb341ffd",
+"classgGUISizer.html#ae250bf20980c736fb361a9db4dc0af9b",
+"classgGrain.html#a9efea6842c7f2910aa9656e1ca28650e",
+"classgMaterial.html#a3c635a17b3a29bd48f7b5736ba7c8a70",
+"classgNode.html#a1b05034284ccbf2446c1dd82dfaef004",
+"classgRenderer.html#a670f5d6601e20c15b92585ea33748906",
+"classgShadowMap.html#ada1b4cac29cbb41b495fc1b9e2e2c204",
+"classgUTF8Iterator.html#a57af6a18782430e79a0c4c6fb8cec5f3",
+"gColor_8h.html#a892ba55efd27ccee2b7592afc9af9082",
+"gKeyCode_8h.html#a3e849c0a2a2edfe1e17ae36f87665103",
+"gTube_8h_source.html",
+"tinyfiledialogs_8c.html#a4e0c55962cd5119defe2e4ab70440d27"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
