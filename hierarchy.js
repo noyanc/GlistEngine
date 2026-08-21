@@ -193,9 +193,11 @@ var hierarchy =
               [ "gSkinnedMesh", "classgSkinnedMesh.html", null ]
             ] ],
             [ "gPlane", "classgPlane.html", null ],
+            [ "gPolygon", "classgPolygon.html", null ],
             [ "gRectangle", "classgRectangle.html", null ],
             [ "gRoundedRectangle", "classgRoundedRectangle.html", null ],
             [ "gSphere", "classgSphere.html", null ],
+            [ "gSpline", "classgSpline.html", null ],
             [ "gTerrain", "classgTerrain.html", null ],
             [ "gTriangle", "classgTriangle.html", null ],
             [ "gTube", "classgTube.html", null ]
