@@ -21,7 +21,7 @@ var searchData=
   ['removecontrol_18',['removeControl',['../classgGUISizer.html#ae46894a49dc5ccd198d6a421a67474ff',1,'gGUISizer']]],
   ['removedata_19',['removeData',['../classgGUIListbox.html#a63f8fb02f8d0382d084afb1e8f3af36d',1,'gGUIListbox']]],
   ['removeelement_20',['removeElement',['../structgGUITreelist_1_1Element.html#a3a97ef06f4fc00c43f1d364fdc52ca59',1,'gGUITreelist::Element::removeElement()'],['../classgGUITreelist.html#ac36e39ba0cd9663c159e7cde0310a1d3',1,'gGUITreelist::removeElement()']]],
-  ['removefirstpointsfromline_21',['removeFirstPointsFromLine',['../classgGUILineGraph.html#a48d06470d7f209d0c37445b0512fb5ba',1,'gGUILineGraph']]],
+  ['removefirstpointsfromline_21',['removeFirstPointsFromLine',['../classgGUICandleStickChart.html#aabbc12778cc4506f573edaf3ccf4eb01',1,'gGUICandleStickChart::removeFirstPointsFromLine()'],['../classgGUILineGraph.html#a48d06470d7f209d0c37445b0512fb5ba',1,'gGUILineGraph::removeFirstPointsFromLine()']]],
   ['removegamepadactionbinding_22',['removeGamepadActionBinding',['../classgInputPlayer.html#af281ea566976f4879652489572b46d4e',1,'gInputPlayer']]],
   ['removegamepadaxisbinding_23',['removeGamepadAxisBinding',['../classgInputPlayer.html#afff8daf1eb2308d783b224ede2117af3',1,'gInputPlayer']]],
   ['removegamepadbuttonaxisbinding_24',['removeGamepadButtonAxisBinding',['../classgInputPlayer.html#ab61251417b5d0ab3f36187e9ef67d8a1',1,'gInputPlayer']]],
